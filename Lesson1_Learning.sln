@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson2OOP", "Lesson2OOP\Le
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overload functions,  Template", "Overload functions,  Template\Overload functions,  Template.vcxproj", "{EC5A581D-561C-4E55-B6D2-95EF075DF320}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StructsRepeat", "StructsRepeat\StructsRepeat.vcxproj", "{8790157E-9FD0-48AA-96F0-BED814494B5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,16 @@ Global
 		{EC5A581D-561C-4E55-B6D2-95EF075DF320}.Release|x64.Build.0 = Release|x64
 		{EC5A581D-561C-4E55-B6D2-95EF075DF320}.Release|x86.ActiveCfg = Release|Win32
 		{EC5A581D-561C-4E55-B6D2-95EF075DF320}.Release|x86.Build.0 = Release|Win32
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Debug|x64.ActiveCfg = Debug|x64
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Debug|x64.Build.0 = Debug|x64
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Debug|x86.Build.0 = Debug|Win32
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Release|x64.ActiveCfg = Release|x64
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Release|x64.Build.0 = Release|x64
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Release|x86.ActiveCfg = Release|Win32
+		{8790157E-9FD0-48AA-96F0-BED814494B5A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
