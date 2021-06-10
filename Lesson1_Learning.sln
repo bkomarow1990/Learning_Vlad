@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class_OOP_23.05", "Class_OO
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LessonOOP_StaticMembers", "LessonOOP_StaticMembers\LessonOOP_StaticMembers.vcxproj", "{40E79F4E-98AF-4EE4-A603-7B82DBF6E7EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP_Getters_Setters", "OOP_Getters_Setters\OOP_Getters_Setters.vcxproj", "{E752816F-8A43-4CB1-9405-DDCB334BF4DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,16 @@ Global
 		{40E79F4E-98AF-4EE4-A603-7B82DBF6E7EC}.Release|x64.Build.0 = Release|x64
 		{40E79F4E-98AF-4EE4-A603-7B82DBF6E7EC}.Release|x86.ActiveCfg = Release|Win32
 		{40E79F4E-98AF-4EE4-A603-7B82DBF6E7EC}.Release|x86.Build.0 = Release|Win32
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Debug|x64.ActiveCfg = Debug|x64
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Debug|x64.Build.0 = Debug|x64
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Debug|x86.Build.0 = Debug|Win32
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Release|x64.ActiveCfg = Release|x64
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Release|x64.Build.0 = Release|x64
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Release|x86.ActiveCfg = Release|Win32
+		{E752816F-8A43-4CB1-9405-DDCB334BF4DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
